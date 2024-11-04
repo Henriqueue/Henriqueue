@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Henrique a a polymath (or so I think)<br>⚡I'm a Brazilian guy, trained as a designer, aspiring writer, editor, digital modeler and photographer.<br>🌱 I’m currently learning progamming in Java, Html, Css and SQL.<br>📫 Reach me in any of the social medias on my profile.<br>
+👋 Hi, I’m Henrique⚡I'm a Brazilian guy, trained as a designer, aspiring writer, editor, digital modeler and photographer.<br>🌱 I’m currently learning progamming in Java, Html, Css and SQL.<br>📫 Reach me in any of the social medias on my profile.<br>
 
 
 # 💻 Tech Stack:
