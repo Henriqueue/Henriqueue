@@ -73,20 +73,11 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/ricoalmeida709">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=ricoalmeida709&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
 ###
 
 <div align="center">
   <a href="www.linkedin.com/in/henriquefernandes000" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="henri9433" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
 </div>
 
