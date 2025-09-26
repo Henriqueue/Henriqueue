@@ -8,13 +8,10 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/HenriqueUE/count.svg?"  />
-</div>
 
 ###
 
-<h6 align="left">I work with front-end development and web design when I'm bored, while focusing on web development. I'm studying Systems Analysis and Development. I'm currently improving my programming skills, as well as exploring the IT field to gain vast knowledge.</h6>
+<h6 align="left">I work with front-end and back-end development and web design when I'm bored, while focusing on web development. I'm studying Systems Analysis and Development. I'm currently improving my programming skills, as well as exploring the IT field to gain vast knowledge.</h6>
 
 ###
 
