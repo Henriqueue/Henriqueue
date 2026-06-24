@@ -11,9 +11,9 @@
 <p data-importer="text" align="left">🧑‍💻 Full-stack web developer and web designer from Brazil<br><br>🔍I do UI/UX and system analysis for fun in my free time.<br><br>💬 Always up for a chat about Development, technology, arts, <br>[or what’s currently stuck in my headphones].<br><br>😉​I prefer to be irreverent, informal, and fun—let's talk like two normal people!</p>
 
 ###
-
-<img data-importer="image" align="left" height="400" src="https://i.pinimg.com/1200x/a9/b9/b7/a9b9b7c1fefbba56c7904034b97df87b.jpg"  />
-
+<div data-importer="image" align="center">
+  <img data-importer="image" height="200" src="https://i.pinimg.com/1200x/90/e4/ac/90e4ac3daefce1db5ccb60504cc66976.jpg"  />
+</div>
 ###
 
 <br clear="both">
