@@ -12,11 +12,7 @@
 
 ###
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Henriqueue/Henriqueue/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Henriqueue/Henriqueue/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Henriqueue/Henriqueue/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-</picture>
+<img data-importer="image" align="left" height="400" src="https://i.pinimg.com/1200x/a9/b9/b7/a9b9b7c1fefbba56c7904034b97df87b.jpg"  />
 
 ###
 
@@ -30,7 +26,7 @@
 
 ###
 
-<p data-importer="text" align="right">I am a software developer with a degree in Systems Analysis and Development. I currently work as a freelancer while seeking new opportunities in the technology sector—driven primarily by a desire to learn and explore as much as I can.<br>My professional journey is fueled by continuous learning, hands-on experience, and a strong commitment to gaining knowledge across as many areas as possible, delivering complete, functional systems that address real-world needs.<br><br>Over time, I have built solid experience across the entire web development ecosystem, with a particular passion for front-end development—where logic meets creativity and visual design.<br><br>But I haven't stopped there; I am actively working to deepen my knowledge of back-end development, the underlying logic of how systems operate, and the integration of servers, applications, and databases.<br><br>In my free time, I dedicate myself to design and the arts in general.</p>
+<p data-importer="text" align="right">I am a software developer with a degree in Systems Analysis and Development. I currently work as a freelancer while seeking new opportunities in the technology sector—driven primarily by a desire to learn and explore as much as I can. <br>My professional journey is fueled by continuous learning, hands-on experience, and a strong commitment to gaining knowledge across as many areas as possible, delivering complete, functional systems that address real-world needs.<br><br>Over time, I have built solid experience across the entire web development ecosystem, with a particular passion for front-end development—where logic meets creativity and visual design.<br><br>But I haven't stopped there; I am actively working to deepen my knowledge of back-end development, the underlying logic of how systems operate, and the integration of servers, applications, and databases.<br><br>In my free time, I dedicate myself to design and the arts in general.</p>
 
 ###
 
