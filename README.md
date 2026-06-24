@@ -178,4 +178,9 @@
 
 ###
 
-![LET'S TALK ABOUT MUSIC!](https://spotify-recently-played-readme.vercel.app/api?user=ricoalmeida709&width={width})
+<div data-importer="music" align="center">
+  <a href="https://open.spotify.com/user/ricoalmeida709">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=ricoalmeida709&count=10&unique=false" alt="Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=ricoalmeida709&width={width)"  />
+  </a>
+</div>
+
