@@ -67,9 +67,6 @@
 <br clear="both">
 
 <h2 data-importer="text" align="right">Come talk to me!</h2>
-
-###
-
 <div data-importer="socials" align="right">
   <a href="https://www.linkedin.com/in/henriquefernandes000/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="62" height="50" alt="linkedin logo"  />
