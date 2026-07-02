@@ -8,7 +8,7 @@
 
 ###
 
-<p data-importer="text" align="left">🧑‍💻 Full-stack web developer and web designer from Brazil<br><br>🔍I do UI/UX and system analysis for fun in my free time.<br><br>💬 Always up for a chat about Development, technology, arts, <br>[or what’s currently stuck in my headphones].<br><br>😉​I prefer to be irreverent, informal, and fun—let's talk like two normal people!</p>
+<p data-importer="text" align="left">🧑‍💻 Full-stack web developer and web designer from Brazil<br><br>🔍I do UI/UX and system analysis for fun in my free time.<br><br>💬 Always up for a chat about Development, technology, arts, <br>[or what’s currently stuck in my headphones].<br><br>😉​I prefer to be informal and fun—let's talk like two normal people!</p>
 
 ###
 <div data-importer="image" align="center">
@@ -71,7 +71,7 @@
   <a href="https://www.linkedin.com/in/henriquefernandes000/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="62" height="50" alt="linkedin logo"  />
   </a>
-  <a href="https://gmail.google.com/mail/u/0/?to=henriquefernardes.dev@gmail.com#inbox" target="_blank">
+  <a href="mailto:henriquefernardes.dev@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="62" height="50" alt="gmail logo"  />
   </a>
   <a href="https://linktr.ee/HenriqueUEFA" target="_blank">
@@ -175,6 +175,6 @@
 
 <div data-importer="music" align="center">
   <a href="https://open.spotify.com/user/ricoalmeida709">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=ricoalmeida709&count=10&unique=false" alt="Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=ricoalmeida709&width={width)"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=ricoalmeida709&count=10&unique=false" alt="Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=ricoalmeida709&width={width)"  </img>
   </a>
 </div>
