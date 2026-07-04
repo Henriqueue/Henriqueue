@@ -8,7 +8,7 @@
 
 ###
 
-<p data-importer="text" align="left">🧑‍💻 Full-stack web developer and web designer from Brazil<br><br>🔍I do UI/UX and system analysis for fun in my free time.<br><br>💬 Always up for a chat about Development, technology, arts, <br>[or what’s currently stuck in my headphones].<br><br>😉​I prefer to be informal and fun—let's talk like two normal people!</p>
+<p data-importer="text" align="left">🧑‍💻 Front-end developer and web designer from Brazil<br><br>🔍I do UI/UX and system analysis for fun in my free time.<br><br>💬 Always up for a chat about Development, technology, arts, <br>[or what’s currently stuck in my headphones].<br><br>😉​I prefer to be informal and fun—let's talk like two normal people!</p>
 
 ###
 <div data-importer="image" align="center">
@@ -26,7 +26,7 @@
 
 ###
 
-<p data-importer="text" align="right">I am a software developer with a degree in Systems Analysis and Development. I currently work as a freelancer while seeking new opportunities in the technology sector—driven primarily by a desire to learn and explore as much as I can. <br>My professional journey is fueled by continuous learning, hands-on experience, and a strong commitment to gaining knowledge across as many areas as possible, delivering complete, functional systems that address real-world needs.<br><br>Over time, I have built solid experience across the entire web development ecosystem, with a particular passion for front-end development—where logic meets creativity and visual design.<br><br>But I haven't stopped there; I am actively working to deepen my knowledge of back-end development, the underlying logic of how systems operate, and the integration of servers, applications, and databases.<br><br>In my free time, I dedicate myself to design and the arts in general.</p>
+<p data-importer="text" align="right">I am a front-end software engineer with a degree in Systems Analysis and Development. I currently work as a freelancer while seeking new opportunities in the technology sector—driven primarily by a desire to learn and explore as much as I can. <br>My professional journey is fueled by continuous learning, hands-on experience, and a strong commitment to gaining knowledge across as many areas as possible, delivering complete, functional systems that address real-world needs.<br><br>Over time, I have built solid experience across the entire web development ecosystem, with a particular passion for front-end development—where logic meets creativity and visual design.<br><br>But I haven't stopped there; I am actively working to deepen my knowledge of back-end development, the underlying logic of how systems operate, and the integration of servers, applications, and databases.<br><br>In my free time, I dedicate myself to design and the arts in general.</p>
 
 ###
 
